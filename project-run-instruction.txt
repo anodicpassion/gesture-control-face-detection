@@ -1,0 +1,67 @@
+How to Execute the  Automatic Face Detection Control System Using Opencv and Mediapipe 
+
+Follow the steps below to successfully run the Automatic Face Detection Control System
+
+Step 1: Install Python 3.12
+
+Go to the official Python website: https://www.python.org/downloads/
+
+Download Python 3.12 for your operating system Windows.
+
+During installation, check the box that says:
+✅ “Add Python 3.12 to PATH”
+
+Click Install Now and wait for the installation to complete.
+
+To confirm installation, open the command prompt windows and type below command 
+
+python --version
+
+You should see something like:
+
+Python 3.12.x
+
+
+Step 2: Install Visual Studio Code (VS Code)
+
+Go to the official website: https://code.visualstudio.com/
+
+Download and install VS Code for your operating system.
+
+Once installed, open VS Code.
+
+(Optional but recommended) Install the Python extension in VS Code:
+
+Click on the Extensions icon on the left sidebar.
+
+Search for “Python” by Microsoft and click Install.
+
+Step 3: Open Project Folder:
+
+Locate your project folder (containing the Python file).
+
+In folder Search Bar Need to Replace with cmd instead of folder name(i.e C:\Users\xavie\OneDrive\Documents\Mediapipe-Library-Project\3.AutoMatic-Face-Detection-Control-Using-Mediapipe)-This is a common method which is used to Oepn Folder in vs code 
+
+Next Need to type code . in in windows terminal and it will redirect into vs code platform after it will be successfully opened in vs code
+
+Open the terminal in VS Code and run:
+
+pip install -r requirements.txt
+
+Step 4: Run the Application
+In the terminal, execute:
+
+py Automatic-face-control-by-hand.py
+
+or 
+
+python Automatic-face-control-by-hand.py
+
+Step 5: Use the Application
+
+Click Start → to begin webcam feed.
+
+Control the face detection mode by showing different finger gestures — raise your pinky to turn detection ON, and your index finger to turn it OFF.
+
+
+Click Stop or Exit as needed.
