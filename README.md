@@ -5,6 +5,9 @@ This project uses **computer vision and gesture recognition** to enable or disab
 
 By combining **MediaPipe**, **OpenCV**, and **Tkinter**, the system delivers an intuitive, modern, and user-friendly human–computer interaction experience.
 
+🔗 **GitHub Repository:**  
+https://github.com/anodicpassion/gesture-control-face-detection
+
 ---
 
 ## 📌 Introduction
