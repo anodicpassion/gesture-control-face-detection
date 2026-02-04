@@ -1,4 +1,4 @@
-# 🙂 Gesture Control Face Detection System
+# 💀 Gesture Control Face Detection System
 
 A **smart, touch-free face detection system** controlled entirely through **hand gestures**.  
 This project uses **computer vision and gesture recognition** to enable or disable real-time face detection by simply raising specific fingers in front of a webcam.
